@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832252039085",
+    "firebase_url": "https://hotel-management-app-hackathon-default-rtdb.firebaseio.com",
+    "project_id": "hotel-management-app-hackathon",
+    "storage_bucket": "hotel-management-app-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832252039085:android:d440c196c7c986f1239b24",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832252039085-d0r3brii6kdpdm34jda4mup2e459c5sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHI7VHsS5vcEhI2ctcxt0PxdH1aj2d6sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832252039085-d0r3brii6kdpdm34jda4mup2e459c5sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
